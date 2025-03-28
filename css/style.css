@@ -58,6 +58,7 @@ input, button, select {
     background-color: #f99;
     font-weight: bold;
     font-size: 12px;
+    line-height: 1;
 }
 
 
